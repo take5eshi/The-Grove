@@ -19,7 +19,7 @@ I've designed this portfolio to be much more user friendly and easier to underst
 		- Piano
 		- Running a 10k
 		- Robotics
- - [[content/Takeshi's LC3 Panel - The Grove/Index|Index]]
+ - [[quartz/content/Index|Index]]
  - [[content/Takeshi's LC3 Panel - The Grove/README|README]]
  - 
 
