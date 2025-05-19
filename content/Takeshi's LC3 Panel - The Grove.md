@@ -2,7 +2,8 @@ Welcome! In case you couldn't tell by the name, I'm Takeshi, a 9th grader at the
 
 # Where to Start
 I've designed this portfolio to be much more user friendly and easier to understand than its [previous google drive format](https://drive.google.com/drive/folders/1EzHlWXpK8IMHVVfqIDLtPkL0XpIY30Vv?usp=sharing). There is a specified route which allows users to simply start at a point and work their way through the portfolio, without getting lost or wondering what exactly they are looking at. So, let's get you started.
- - [[Takeshi's LC3 Panel - The Grove]]
+ - <u>[[Takeshi's LC3 Panel - The Grove]]<u>
+	 - Learning Plan
 	- [[Advisory]]
 		 - [[Current Events]]
 		 - [[Health]]
