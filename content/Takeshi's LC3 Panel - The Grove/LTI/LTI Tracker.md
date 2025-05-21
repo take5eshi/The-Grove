@@ -65,8 +65,9 @@ You can also take a look at the [LTI Zone Goal Tracker](https://docs.google.com/
 |Dave Jacobs|Dave Jacobs|N/A|[davidj@osbornconsulting.com](mailto:davidj@osbornconsulting.com)||04/18/2025||||Got contact from Daniel Robben|FALSE||||||||
 |West Seattle Wildscaping|David Hancock|Owner/CEO|[david@wswildscaping.com](mailto:david@wswildscaping.com)|N/A|04/29/2025|||request is out||TRUE||||||||
 |Will Stone|Will Stone|Journalist|[wstone@npr.org](mailto:wstone@npr.org)||04/29/2025|05/08/2025||||FALSE||||||||
+|Dylan Cate|Dylan Cate||dycate@gmail.com||05/08/2025||05/27/2025|||FALSE|
 
 ---
 ## Route
 
-| [[LTI]] | <-- back | next --> | [[]] |
+| [[Shadow Days]] | <-- back | next --> | [[Scripts, Questions, and More!]] |

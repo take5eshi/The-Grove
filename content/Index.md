@@ -17,3 +17,4 @@ Confused about what the heck a very obscure sounding acronym means? What about a
 |lti |learning through internships |real world learning |
 |lae |literary analysis essay |class essay |
 |bp |big picture |my current school |
+|mrhs |mount rainier high school |my future school |

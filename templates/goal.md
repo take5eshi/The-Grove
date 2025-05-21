@@ -11,3 +11,4 @@ tags:
   - forest
   - misc
 ---
+| [[]] | <-- back | next --> | [[]] |

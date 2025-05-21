@@ -12,17 +12,17 @@ I've designed this portfolio to be much more user friendly and easier to underst
 		 - [[WITS]]
 	- [[LTI]]
 		- [[Interviews]]
-		- Shadow Days
+		- [[Shadow Days]]
 		- [[LTI Tracker]]
-		- Scripts, Questions, and more!
+		- [[Scripts, Questions, and More!]]
 	- Projects
 		- Obsidian Coding
 		- Piano
 		- Running a 10k
 		- Robotics
  - [[quartz/content/Index|Index]]
- - [[content/Takeshi's LC3 Panel - The Grove/README|README]]
+ - [[quartz/content/README|README]]
  - 
 
 ## Odd Commodities
-As confusing as this may seem, it is nowhere as intense as some of the more major vaults on the internet, namely Nicole van der Hoeven's "Fork my Brain" vault that has the capability of crashing my computer.
+As confusing as this may seem, it is nowhere as intense as some of the more major vaults on the internet, namely Nicole van der Hoeven's "Fork my Brain" vault that has the capability of crashing my computer. 
